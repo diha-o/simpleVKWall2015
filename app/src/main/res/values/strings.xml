@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tabHost</string>
+    <integer name="com_vk_sdk_AppId">5500162</integer>
+</resources>
